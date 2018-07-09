@@ -4,7 +4,7 @@ In this repository, you can find the code of the PnP Telemetry API. This API has
 
 Initially, the projects made use of Application Insights, but over time it appeared that Application Insights does not yet support multiple configurations and/or account keys. Because it is not supported, it prevents other developers from adding Application Insights to their own project, or the PnP Application Insights filters get overwritten.
 
-The data you send to the proxy will be added to the PnP Application Insights account.
+The data you send to the proxy will be added to the PnP Application Insights account and is running on the following API endpoint: `https://pnptelemetryproxy.azurewebsites.net/track`.
 
 > Info: This project is intended to show to you what is actually running behind our tracking API.
 
