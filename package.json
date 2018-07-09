@@ -1,0 +1,29 @@
+{
+  "name": "@pnp/telemetry-node-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/server.js",
+  "scripts": {
+    "start": "node ./dist/server.js",
+    "server": "tsc && development=true node ./dist/server.js",
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "Elio Struyf",
+  "license": "MIT",
+  "engines": {
+    "node": "8.11.1",
+    "npm": "5.6.0"
+  },
+  "devDependencies": {
+    "@types/applicationinsights": "0.20.0",
+    "@types/body-parser": "1.17.0",
+    "@types/express": "4.16.0",
+    "typescript": "2.9.2"
+  },
+  "dependencies": {
+    "applicationinsights": "1.0.3",
+    "body-parser": "1.18.3",
+    "express": "4.16.3"
+  }
+}
