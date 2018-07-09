@@ -24,7 +24,7 @@ Here is a sample of an Application Insights record:
 
 Please use following logic on submitting your questions or issues to right location to ensure that they are noticed and addressed as soon as possible.
 
-* You have general question or challenge with SPFx - use [sp-dev-docs repository issue list](https://github.com/pnp/telemetry-node-proxy/issues).
+* You have general question or challenge with SPFx - use [sp-dev-docs repository issue list](https://github.com/sharepoint/sp-dev-docs/issues).
 * You have issue on specific controls in this package - use [issue list in this repository](https://github.com/pnp/telemetry-node-proxy/issues).
 
 ### Contributing
