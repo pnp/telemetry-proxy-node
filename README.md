@@ -1,4 +1,4 @@
-# PnP Node.js based telemetry API
+# PnP Node.js based telemetry proxy for Application Insights
 
 In this repository, you can find the code of the PnP Telemetry API. This API has been created in order to track usage of the client-side PnP libraries like [@pnp/spfx-controls-react](https://github.com/SharePoint/sp-dev-fx-property-controls) and [@pnp/spfx-property-controls](https://github.com/SharePoint/sp-dev-fx-controls-react).
 
